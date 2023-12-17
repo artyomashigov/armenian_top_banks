@@ -9,43 +9,43 @@
 8,Ardshinbank,ardshinen8.txt,POSITIVE
 9,Ardshinbank,ardshinen9.txt,NEUTRAL
 10,Ardshinbank,ardshinen10.txt,NEUTRAL
-1,Ameriabank,ameriaen1.txt,POSITIVE
-2,Ameriabank,ameriaen2.txt,NEUTRAL
-3,Ameriabank,ameriaen3.txt,NEUTRAL
-4,Ameriabank,ameriaen4.txt,NEUTRAL
-5,Ameriabank,ameriaen5.txt,NEUTRAL
-6,Ameriabank,ameriaen6.txt,NEUTRAL
-7,Ameriabank,ameriaen7.txt,NEUTRAL
-8,Ameriabank,ameriaen8.txt,NEUTRAL
-9,Ameriabank,ameriaen9.txt,NEUTRAL
-10,Ameriabank,ameriaen10.txt,NEUTRAL
-1,Acbabank,acbaen1.txt,NEUTRAL
-2,Acbabank,acbaen2.txt,NEUTRAL
-3,Acbabank,acbaen3.txt,NEUTRAL
-4,Acbabank,acbaen4.txt,NEUTRAL
-5,Acbabank,acbaen5.txt,NEUTRAL
-6,Acbabank,acbaen6.txt,NEUTRAL
-7,Acbabank,acbaen7.txt,NEUTRAL
-8,Acbabank,acbaen8.txt,NEUTRAL
-9,Acbabank,acbaen9.txt,NEUTRAL
-10,Acbabank,acbaen10.txt,NEUTRAL
-1,Unibank,translated_unibankhy1.txt,NEUTRAL
-2,Unibank,translated_unibankhy2.txt,NEUTRAL
-3,Unibank,translated_unibankhy3.txt,NEUTRAL
-4,Unibank,translated_unibankhy4.txt,NEUTRAL
-5,Unibank,translated_unibankhy5.txt,NEUTRAL
-6,Unibank,translated_unibankhy6.txt,NEUTRAL
-7,Unibank,translated_unibankhy7.txt,NEGATIVE
-8,Unibank,translated_unibankhy8.txt,NEUTRAL
-9,Unibank,translated_unibankhy9.txt,NEUTRAL
-10,Unibank,translated_unibankhy10.txt,NEUTRAL
-1,ID Bank,translated_idbankhy1.txt,NEUTRAL
-2,ID Bank,translated_idbankhy2.txt,NEUTRAL
-3,ID Bank,translated_idbankhy3.txt,NEUTRAL
-4,ID Bank,translated_idbankhy4.txt,NEUTRAL
-5,ID Bank,translated_idbankhy5.txt,NEUTRAL
-6,ID Bank,translated_idbankhy6.txt,NEUTRAL
-7,ID Bank,translated_idbankhy7.txt,NEUTRAL
-8,ID Bank,translated_idbankhy8.txt,NEUTRAL
-9,ID Bank,translated_idbankhy9.txt,NEUTRAL
-10,ID Bank,translated_idbankhy10.txt,NEUTRAL
+11,Ameriabank,ameriaen1.txt,POSITIVE
+12,Ameriabank,ameriaen2.txt,NEUTRAL
+13,Ameriabank,ameriaen3.txt,NEUTRAL
+14,Ameriabank,ameriaen4.txt,NEUTRAL
+15,Ameriabank,ameriaen5.txt,NEUTRAL
+16,Ameriabank,ameriaen6.txt,NEUTRAL
+17,Ameriabank,ameriaen7.txt,NEUTRAL
+18,Ameriabank,ameriaen8.txt,NEUTRAL
+19,Ameriabank,ameriaen9.txt,NEUTRAL
+20,Ameriabank,ameriaen10.txt,NEUTRAL
+21,Acbabank,acbaen1.txt,NEUTRAL
+22,Acbabank,acbaen2.txt,NEUTRAL
+23,Acbabank,acbaen3.txt,NEUTRAL
+24,Acbabank,acbaen4.txt,NEUTRAL
+25,Acbabank,acbaen5.txt,NEUTRAL
+26,Acbabank,acbaen6.txt,NEUTRAL
+27,Acbabank,acbaen7.txt,NEUTRAL
+28,Acbabank,acbaen8.txt,NEUTRAL
+29,Acbabank,acbaen9.txt,NEUTRAL
+30,Acbabank,acbaen10.txt,NEUTRAL
+31,Unibank,translated_unibankhy1.txt,NEUTRAL
+32,Unibank,translated_unibankhy2.txt,NEUTRAL
+33,Unibank,translated_unibankhy3.txt,NEUTRAL
+34,Unibank,translated_unibankhy4.txt,NEUTRAL
+35,Unibank,translated_unibankhy5.txt,NEUTRAL
+36,Unibank,translated_unibankhy6.txt,NEUTRAL
+37,Unibank,translated_unibankhy7.txt,NEGATIVE
+38,Unibank,translated_unibankhy8.txt,NEUTRAL
+39,Unibank,translated_unibankhy9.txt,NEUTRAL
+40,Unibank,translated_unibankhy10.txt,NEUTRAL
+41,ID Bank,translated_idbankhy1.txt,NEUTRAL
+42,ID Bank,translated_idbankhy2.txt,NEUTRAL
+43,ID Bank,translated_idbankhy3.txt,NEUTRAL
+44,ID Bank,translated_idbankhy4.txt,NEUTRAL
+45,ID Bank,translated_idbankhy5.txt,NEUTRAL
+46,ID Bank,translated_idbankhy6.txt,NEUTRAL
+47,ID Bank,translated_idbankhy7.txt,NEUTRAL
+48,ID Bank,translated_idbankhy8.txt,NEUTRAL
+49,ID Bank,translated_idbankhy9.txt,NEUTRAL
+50,ID Bank,translated_idbankhy10.txt,NEUTRAL
